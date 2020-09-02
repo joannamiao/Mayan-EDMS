@@ -372,6 +372,10 @@ a i {
 
 
 /*Bootstrap button outline override*/
+
+.btn-default {
+    background-color: black;
+}
 .btn-outline {
     background-color: transparent;
     color: inherit;
